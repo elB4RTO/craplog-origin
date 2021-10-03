@@ -1,5 +1,5 @@
 # craplog-origin
-A tool that scrapes Apache2 logs
+The origin version of CRAPLOG, published as proof of work
 
 /<br>
 <br>

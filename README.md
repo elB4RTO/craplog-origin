@@ -16,7 +16,7 @@ It doesn't make statistics and also it just works on access logs.<br/><br/>
 ### Run
 
 ```
-chmod +x craplog.sh && exec craplog.sh
+chmod +x craplog.sh && ./craplog.sh
 ```
 
 <br/>
